@@ -5,3 +5,7 @@
 
 [COR](https://html-color-codes.info/Codigos-de-Cores-HTML/)
 
+
+🔴DOWNLOADS
+
+[VLC](https://www.videolan.org/vlc/)
