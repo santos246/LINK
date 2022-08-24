@@ -18,7 +18,9 @@
 🔴CÓDIGO IPTV🔴
 
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="CATEGORIA🔴",NOME🔴
 SITEM3U🔴
+
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="CATEGORIA🔴",NOME🔴
 SITEM3U🔴
