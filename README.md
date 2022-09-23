@@ -25,3 +25,7 @@ SITEM3U🔴
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="CATEGORIA🔴",NOME🔴
 SITEM3U🔴
+<!---------------------FAIXA AZUL----------------------->  
+<a href="https://santos246.github.io/INICIO/" target="_self">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white"><FONT SIZE=+2>INÍCIO</FONT></p></div></a>
+<!------------------------------------------------------>
